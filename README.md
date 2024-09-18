@@ -35,3 +35,6 @@ criterion = nn.CrossEntropyLoss(weight=weights).to(device)
 ---
 ## Conclusion: 
 From the experiment, we can know that the shortcoming of reweighting loss with $weights = \frac{C}{Class Count}$  (C means constant)is that it will **ignore the frequency class**. So it's better to use other loss to concentrate on both frequency and minor classes.
+
+## Note:
+My code is mainly based on [kaidic](https://github.com/kaidic/LDAM-DRW) and [ZOMIN28](https://github.com/ZOMIN28/ResNet18_Cifar10_95.46).
