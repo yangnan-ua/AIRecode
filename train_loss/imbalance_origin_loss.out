@@ -1,0 +1,528 @@
+no change     /mnt/home/xuhan1/miniconda3/condabin/conda
+no change     /mnt/home/xuhan1/miniconda3/bin/conda
+no change     /mnt/home/xuhan1/miniconda3/bin/conda-env
+no change     /mnt/home/xuhan1/miniconda3/bin/activate
+no change     /mnt/home/xuhan1/miniconda3/bin/deactivate
+no change     /mnt/home/xuhan1/miniconda3/etc/profile.d/conda.sh
+no change     /mnt/home/xuhan1/miniconda3/etc/fish/conf.d/conda.fish
+no change     /mnt/home/xuhan1/miniconda3/shell/condabin/Conda.psm1
+no change     /mnt/home/xuhan1/miniconda3/shell/condabin/conda-hook.ps1
+no change     /mnt/home/xuhan1/miniconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /mnt/home/xuhan1/miniconda3/etc/profile.d/conda.csh
+no change     /mnt/home/xuhan1/.bashrc
+No action taken.
+
+CondaError: Run 'conda init' before 'conda activate'
+
+12406
+9925
+2481
+  0%|          | 0/250 [00:00<?, ?it/s]  0%|          | 1/250 [00:05<23:49,  5.74s/it]  1%|          | 2/250 [00:10<22:30,  5.44s/it]  1%|          | 3/250 [00:16<21:57,  5.34s/it]  2%|▏         | 4/250 [00:21<21:44,  5.30s/it]  2%|▏         | 5/250 [00:27<22:15,  5.45s/it]  2%|▏         | 6/250 [00:32<22:14,  5.47s/it]  3%|▎         | 7/250 [00:37<21:52,  5.40s/it]  3%|▎         | 8/250 [00:43<21:34,  5.35s/it]  4%|▎         | 9/250 [00:48<21:19,  5.31s/it]  4%|▍         | 10/250 [00:53<21:04,  5.27s/it]  4%|▍         | 11/250 [00:58<20:57,  5.26s/it]  5%|▍         | 12/250 [01:03<20:46,  5.24s/it]  5%|▌         | 13/250 [01:09<20:36,  5.22s/it]  6%|▌         | 14/250 [01:14<20:27,  5.20s/it]  6%|▌         | 15/250 [01:19<20:21,  5.20s/it]  6%|▋         | 16/250 [01:24<20:34,  5.28s/it]  7%|▋         | 17/250 [01:30<20:51,  5.37s/it]  7%|▋         | 18/250 [01:35<20:42,  5.36s/it]  8%|▊         | 19/250 [01:41<20:24,  5.30s/it]  8%|▊         | 20/250 [01:46<20:16,  5.29s/it]  8%|▊         | 21/250 [01:51<20:07,  5.27s/it]  9%|▉         | 22/250 [01:56<19:57,  5.25s/it]  9%|▉         | 23/250 [02:01<19:48,  5.23s/it] 10%|▉         | 24/250 [02:07<19:39,  5.22s/it] 10%|█         | 25/250 [02:12<19:32,  5.21s/it] 10%|█         | 26/250 [02:17<19:25,  5.20s/it] 11%|█         | 27/250 [02:22<19:19,  5.20s/it] 11%|█         | 28/250 [02:27<19:12,  5.19s/it] 12%|█▏        | 29/250 [02:33<19:06,  5.19s/it] 12%|█▏        | 30/250 [02:38<19:00,  5.18s/it] 12%|█▏        | 31/250 [02:43<18:53,  5.18s/it] 13%|█▎        | 32/250 [02:48<18:50,  5.18s/it] 13%|█▎        | 33/250 [02:53<18:45,  5.19s/it] 14%|█▎        | 34/250 [02:58<18:39,  5.18s/it] 14%|█▍        | 35/250 [03:04<18:35,  5.19s/it] 14%|█▍        | 36/250 [03:09<18:29,  5.19s/it] 15%|█▍        | 37/250 [03:14<18:24,  5.19s/it] 15%|█▌        | 38/250 [03:19<18:19,  5.19s/it] 16%|█▌        | 39/250 [03:24<18:15,  5.19s/it] 16%|█▌        | 40/250 [03:30<18:09,  5.19s/it] 16%|█▋        | 41/250 [03:35<18:04,  5.19s/it] 17%|█▋        | 42/250 [03:40<17:59,  5.19s/it] 17%|█▋        | 43/250 [03:45<17:53,  5.19s/it] 18%|█▊        | 44/250 [03:50<17:49,  5.19s/it] 18%|█▊        | 45/250 [03:56<17:44,  5.19s/it] 18%|█▊        | 46/250 [04:01<17:38,  5.19s/it] 19%|█▉        | 47/250 [04:06<17:34,  5.20s/it] 19%|█▉        | 48/250 [04:11<17:31,  5.20s/it] 20%|█▉        | 49/250 [04:16<17:24,  5.20s/it] 20%|██        | 50/250 [04:22<17:18,  5.19s/it] 20%|██        | 51/250 [04:27<17:12,  5.19s/it] 21%|██        | 52/250 [04:32<17:06,  5.19s/it] 21%|██        | 53/250 [04:37<17:01,  5.19s/it] 22%|██▏       | 54/250 [04:42<16:56,  5.19s/it] 22%|██▏       | 55/250 [04:47<16:52,  5.19s/it] 22%|██▏       | 56/250 [04:53<16:48,  5.20s/it] 23%|██▎       | 57/250 [04:58<16:41,  5.19s/it] 23%|██▎       | 58/250 [05:03<16:35,  5.18s/it] 24%|██▎       | 59/250 [05:08<16:30,  5.19s/it] 24%|██▍       | 60/250 [05:13<16:24,  5.18s/it] 24%|██▍       | 61/250 [05:19<16:19,  5.18s/it] 25%|██▍       | 62/250 [05:24<16:14,  5.19s/it] 25%|██▌       | 63/250 [05:29<16:09,  5.19s/it] 26%|██▌       | 64/250 [05:34<16:04,  5.19s/it] 26%|██▌       | 65/250 [05:39<15:59,  5.19s/it] 26%|██▋       | 66/250 [05:45<15:54,  5.19s/it] 27%|██▋       | 67/250 [05:50<15:50,  5.20s/it] 27%|██▋       | 68/250 [05:55<15:44,  5.19s/it] 28%|██▊       | 69/250 [06:00<15:39,  5.19s/it] 28%|██▊       | 70/250 [06:05<15:33,  5.19s/it] 28%|██▊       | 71/250 [06:10<15:28,  5.19s/it] 29%|██▉       | 72/250 [06:16<15:21,  5.18s/it] 29%|██▉       | 73/250 [06:21<15:17,  5.18s/it] 30%|██▉       | 74/250 [06:26<15:13,  5.19s/it] 30%|███       | 75/250 [06:31<15:08,  5.19s/it] 30%|███       | 76/250 [06:36<15:04,  5.20s/it] 31%|███       | 77/250 [06:42<14:59,  5.20s/it] 31%|███       | 78/250 [06:47<14:53,  5.20s/it] 32%|███▏      | 79/250 [06:52<14:47,  5.19s/it] 32%|███▏      | 80/250 [06:57<14:38,  5.17s/it] 32%|███▏      | 81/250 [07:02<14:33,  5.17s/it] 33%|███▎      | 82/250 [07:07<14:29,  5.17s/it] 33%|███▎      | 83/250 [07:13<14:23,  5.17s/it] 34%|███▎      | 84/250 [07:18<14:18,  5.17s/it] 34%|███▍      | 85/250 [07:23<14:14,  5.18s/it] 34%|███▍      | 86/250 [07:28<14:08,  5.17s/it] 35%|███▍      | 87/250 [07:33<14:04,  5.18s/it] 35%|███▌      | 88/250 [07:38<13:53,  5.15s/it] 36%|███▌      | 89/250 [07:43<13:42,  5.11s/it] 36%|███▌      | 90/250 [07:48<13:32,  5.08s/it] 36%|███▋      | 91/250 [07:54<13:27,  5.08s/it] 37%|███▋      | 92/250 [07:59<13:18,  5.06s/it] 37%|███▋      | 93/250 [08:04<13:12,  5.05s/it] 38%|███▊      | 94/250 [08:09<13:05,  5.04s/it] 38%|███▊      | 95/250 [08:14<12:59,  5.03s/it] 38%|███▊      | 96/250 [08:19<12:53,  5.02s/it] 39%|███▉      | 97/250 [08:24<12:48,  5.02s/it] 39%|███▉      | 98/250 [08:29<12:43,  5.02s/it] 40%|███▉      | 99/250 [08:34<12:38,  5.02s/it] 40%|████      | 100/250 [08:39<12:32,  5.02s/it] 40%|████      | 101/250 [08:44<12:27,  5.02s/it] 41%|████      | 102/250 [08:49<12:21,  5.01s/it] 41%|████      | 103/250 [08:54<12:17,  5.02s/it] 42%|████▏     | 104/250 [08:59<12:12,  5.01s/it] 42%|████▏     | 105/250 [09:04<12:07,  5.02s/it] 42%|████▏     | 106/250 [09:09<12:01,  5.01s/it] 43%|████▎     | 107/250 [09:14<11:56,  5.01s/it] 43%|████▎     | 108/250 [09:19<11:51,  5.01s/it] 44%|████▎     | 109/250 [09:24<11:47,  5.02s/it] 44%|████▍     | 110/250 [09:29<11:42,  5.02s/it] 44%|████▍     | 111/250 [09:34<11:37,  5.02s/it] 45%|████▍     | 112/250 [09:58<24:47, 10.78s/it] 45%|████▌     | 113/250 [10:29<38:20, 16.79s/it] 46%|████▌     | 114/250 [10:34<30:04, 13.27s/it] 46%|████▌     | 115/250 [10:39<24:16, 10.79s/it] 46%|████▋     | 116/250 [10:44<20:13,  9.05s/it] 47%|████▋     | 117/250 [10:49<17:23,  7.85s/it] 47%|████▋     | 118/250 [10:54<15:24,  7.00s/it] 48%|████▊     | 119/250 [10:59<13:58,  6.40s/it] 48%|████▊     | 120/250 [11:04<12:57,  5.98s/it] 48%|████▊     | 121/250 [11:09<12:12,  5.68s/it] 49%|████▉     | 122/250 [11:14<11:39,  5.47s/it] 49%|████▉     | 123/250 [11:19<11:16,  5.32s/it] 50%|████▉     | 124/250 [11:24<10:58,  5.22s/it] 50%|█████     | 125/250 [11:59<29:29, 14.15s/it] 50%|█████     | 126/250 [12:04<23:34, 11.41s/it] 51%|█████     | 127/250 [12:09<19:26,  9.48s/it] 51%|█████     | 128/250 [12:14<16:32,  8.13s/it] 52%|█████▏    | 129/250 [12:19<14:30,  7.19s/it] 52%|█████▏    | 130/250 [12:24<13:04,  6.53s/it] 52%|█████▏    | 131/250 [12:29<12:01,  6.07s/it] 53%|█████▎    | 132/250 [12:34<11:17,  5.75s/it] 53%|█████▎    | 133/250 [12:39<10:46,  5.52s/it] 54%|█████▎    | 134/250 [12:44<10:22,  5.36s/it] 54%|█████▍    | 135/250 [12:49<10:04,  5.25s/it] 54%|█████▍    | 136/250 [12:54<09:50,  5.18s/it] 55%|█████▍    | 137/250 [12:59<09:38,  5.12s/it] 55%|█████▌    | 138/250 [13:04<09:29,  5.08s/it] 56%|█████▌    | 139/250 [13:09<09:21,  5.06s/it] 56%|█████▌    | 140/250 [13:14<09:22,  5.12s/it] 56%|█████▋    | 141/250 [13:19<09:13,  5.08s/it] 57%|█████▋    | 142/250 [13:24<09:05,  5.05s/it] 57%|█████▋    | 143/250 [13:29<08:59,  5.04s/it] 58%|█████▊    | 144/250 [13:34<08:53,  5.03s/it] 58%|█████▊    | 145/250 [13:39<08:47,  5.02s/it] 58%|█████▊    | 146/250 [13:44<08:41,  5.01s/it] 59%|█████▉    | 147/250 [13:49<08:39,  5.04s/it] 59%|█████▉    | 148/250 [13:54<08:33,  5.03s/it] 60%|█████▉    | 149/250 [13:59<08:26,  5.02s/it] 60%|██████    | 150/250 [14:04<08:21,  5.02s/it] 60%|██████    | 151/250 [14:09<08:15,  5.00s/it] 61%|██████    | 152/250 [14:14<08:09,  5.00s/it] 61%|██████    | 153/250 [14:19<08:04,  4.99s/it] 62%|██████▏   | 154/250 [14:24<07:59,  5.00s/it] 62%|██████▏   | 155/250 [14:29<07:54,  5.00s/it] 62%|██████▏   | 156/250 [14:34<07:50,  5.00s/it] 63%|██████▎   | 157/250 [14:39<07:45,  5.00s/it] 63%|██████▎   | 158/250 [14:44<07:40,  5.00s/it] 64%|██████▎   | 159/250 [14:49<07:35,  5.01s/it] 64%|██████▍   | 160/250 [14:54<07:30,  5.01s/it] 64%|██████▍   | 161/250 [14:59<07:25,  5.00s/it] 65%|██████▍   | 162/250 [15:04<07:20,  5.01s/it] 65%|██████▌   | 163/250 [15:09<07:15,  5.00s/it] 66%|██████▌   | 164/250 [15:14<07:10,  5.00s/it] 66%|██████▌   | 165/250 [15:19<07:05,  5.00s/it] 66%|██████▋   | 166/250 [15:24<07:00,  5.01s/it] 67%|██████▋   | 167/250 [15:29<06:55,  5.01s/it] 67%|██████▋   | 168/250 [15:34<06:50,  5.01s/it] 68%|██████▊   | 169/250 [15:39<06:45,  5.01s/it] 68%|██████▊   | 170/250 [15:44<06:40,  5.01s/it] 68%|██████▊   | 171/250 [15:49<06:35,  5.01s/it] 69%|██████▉   | 172/250 [15:54<06:30,  5.01s/it] 69%|██████▉   | 173/250 [15:59<06:25,  5.00s/it] 70%|██████▉   | 174/250 [16:04<06:20,  5.01s/it] 70%|███████   | 175/250 [16:09<06:15,  5.01s/it] 70%|███████   | 176/250 [16:14<06:09,  5.00s/it] 71%|███████   | 177/250 [16:19<06:04,  5.00s/it] 71%|███████   | 178/250 [16:24<05:59,  5.00s/it] 72%|███████▏  | 179/250 [16:29<05:54,  4.99s/it] 72%|███████▏  | 180/250 [16:34<05:49,  5.00s/it] 72%|███████▏  | 181/250 [16:39<05:45,  5.00s/it] 73%|███████▎  | 182/250 [16:44<05:39,  5.00s/it] 73%|███████▎  | 183/250 [16:49<05:35,  5.01s/it] 74%|███████▎  | 184/250 [16:54<05:30,  5.01s/it] 74%|███████▍  | 185/250 [16:59<05:25,  5.01s/it] 74%|███████▍  | 186/250 [17:04<05:20,  5.01s/it] 75%|███████▍  | 187/250 [17:09<05:15,  5.01s/it] 75%|███████▌  | 188/250 [17:14<05:09,  5.00s/it] 76%|███████▌  | 189/250 [17:19<05:05,  5.00s/it] 76%|███████▌  | 190/250 [17:24<05:00,  5.00s/it] 76%|███████▋  | 191/250 [17:29<04:55,  5.00s/it] 77%|███████▋  | 192/250 [17:34<04:50,  5.01s/it] 77%|███████▋  | 193/250 [17:39<04:45,  5.01s/it] 78%|███████▊  | 194/250 [17:44<04:40,  5.00s/it] 78%|███████▊  | 195/250 [17:49<04:35,  5.00s/it] 78%|███████▊  | 196/250 [17:54<04:30,  5.01s/it] 79%|███████▉  | 197/250 [17:59<04:25,  5.01s/it] 79%|███████▉  | 198/250 [18:04<04:20,  5.01s/it] 80%|███████▉  | 199/250 [18:09<04:15,  5.01s/it] 80%|████████  | 200/250 [18:14<04:10,  5.01s/it] 80%|████████  | 201/250 [18:19<04:05,  5.01s/it] 81%|████████  | 202/250 [18:24<04:00,  5.01s/it] 81%|████████  | 203/250 [18:29<03:55,  5.01s/it] 82%|████████▏ | 204/250 [18:34<03:50,  5.01s/it] 82%|████████▏ | 205/250 [18:39<03:45,  5.01s/it] 82%|████████▏ | 206/250 [18:44<03:40,  5.00s/it] 83%|████████▎ | 207/250 [18:49<03:35,  5.01s/it] 83%|████████▎ | 208/250 [18:54<03:30,  5.00s/it] 84%|████████▎ | 209/250 [18:59<03:25,  5.01s/it] 84%|████████▍ | 210/250 [19:04<03:21,  5.03s/it] 84%|████████▍ | 211/250 [19:09<03:15,  5.02s/it] 85%|████████▍ | 212/250 [19:14<03:10,  5.01s/it] 85%|████████▌ | 213/250 [19:20<03:06,  5.04s/it] 86%|████████▌ | 214/250 [19:25<03:00,  5.03s/it] 86%|████████▌ | 215/250 [19:30<02:55,  5.02s/it] 86%|████████▋ | 216/250 [19:35<02:50,  5.02s/it] 87%|████████▋ | 217/250 [19:40<02:45,  5.02s/it] 87%|████████▋ | 218/250 [19:45<02:40,  5.01s/it] 88%|████████▊ | 219/250 [19:50<02:35,  5.02s/it] 88%|████████▊ | 220/250 [19:55<02:30,  5.02s/it] 88%|████████▊ | 221/250 [20:00<02:25,  5.01s/it] 89%|████████▉ | 222/250 [20:05<02:20,  5.01s/it] 89%|████████▉ | 223/250 [20:10<02:15,  5.01s/it] 90%|████████▉ | 224/250 [20:15<02:10,  5.00s/it] 90%|█████████ | 225/250 [20:20<02:05,  5.00s/it] 90%|█████████ | 226/250 [20:25<02:00,  5.00s/it] 91%|█████████ | 227/250 [20:30<01:54,  5.00s/it] 91%|█████████ | 228/250 [20:35<01:49,  5.00s/it] 92%|█████████▏| 229/250 [20:40<01:45,  5.00s/it] 92%|█████████▏| 230/250 [20:45<01:40,  5.00s/it] 92%|█████████▏| 231/250 [20:50<01:35,  5.00s/it] 93%|█████████▎| 232/250 [20:55<01:30,  5.01s/it] 93%|█████████▎| 233/250 [21:00<01:25,  5.01s/it] 94%|█████████▎| 234/250 [21:05<01:20,  5.01s/it] 94%|█████████▍| 235/250 [21:10<01:15,  5.01s/it] 94%|█████████▍| 236/250 [21:15<01:10,  5.00s/it] 95%|█████████▍| 237/250 [21:20<01:05,  5.00s/it] 95%|█████████▌| 238/250 [21:25<01:00,  5.00s/it] 96%|█████████▌| 239/250 [21:30<00:55,  5.01s/it] 96%|█████████▌| 240/250 [21:35<00:50,  5.01s/it] 96%|█████████▋| 241/250 [21:40<00:45,  5.01s/it] 97%|█████████▋| 242/250 [21:45<00:40,  5.00s/it] 97%|█████████▋| 243/250 [21:50<00:35,  5.01s/it] 98%|█████████▊| 244/250 [21:55<00:30,  5.01s/it] 98%|█████████▊| 245/250 [22:00<00:25,  5.01s/it] 98%|█████████▊| 246/250 [22:05<00:20,  5.01s/it] 99%|█████████▉| 247/250 [22:10<00:15,  5.01s/it] 99%|█████████▉| 248/250 [22:15<00:10,  5.00s/it]100%|█████████▉| 249/250 [22:20<00:04,  5.00s/it]100%|██████████| 250/250 [22:25<00:00,  4.99s/it]100%|██████████| 250/250 [22:25<00:00,  5.38s/it]
+Accuracy: 48.0078125 %
+Epoch: 1 	Training Loss: 2.046703 	Validation Loss: 1.397292
+Validation loss decreased (inf --> 1.397292).  Saving model ...
+Accuracy: 56.171875 %
+Epoch: 2 	Training Loss: 1.245259 	Validation Loss: 1.179175
+Validation loss decreased (1.397292 --> 1.179175).  Saving model ...
+Accuracy: 54.0625 %
+Epoch: 3 	Training Loss: 1.122679 	Validation Loss: 1.253973
+Accuracy: 62.34375 %
+Epoch: 4 	Training Loss: 1.031100 	Validation Loss: 1.042397
+Validation loss decreased (1.179175 --> 1.042397).  Saving model ...
+Accuracy: 63.984375 %
+Epoch: 5 	Training Loss: 0.943726 	Validation Loss: 0.967832
+Validation loss decreased (1.042397 --> 0.967832).  Saving model ...
+Accuracy: 63.359375 %
+Epoch: 6 	Training Loss: 0.887055 	Validation Loss: 0.986766
+Accuracy: 63.1640625 %
+Epoch: 7 	Training Loss: 0.851968 	Validation Loss: 0.967181
+Validation loss decreased (0.967832 --> 0.967181).  Saving model ...
+Accuracy: 66.3671875 %
+Epoch: 8 	Training Loss: 0.797288 	Validation Loss: 0.877817
+Validation loss decreased (0.967181 --> 0.877817).  Saving model ...
+Accuracy: 68.3984375 %
+Epoch: 9 	Training Loss: 0.731122 	Validation Loss: 0.854441
+Validation loss decreased (0.877817 --> 0.854441).  Saving model ...
+Accuracy: 68.125 %
+Epoch: 10 	Training Loss: 0.690420 	Validation Loss: 0.877070
+Accuracy: 69.4140625 %
+Epoch: 11 	Training Loss: 0.635582 	Validation Loss: 0.841452
+Validation loss decreased (0.854441 --> 0.841452).  Saving model ...
+Accuracy: 63.7890625 %
+Epoch: 12 	Training Loss: 0.591030 	Validation Loss: 1.122648
+Accuracy: 61.71875 %
+Epoch: 13 	Training Loss: 0.507950 	Validation Loss: 1.196611
+Accuracy: 67.890625 %
+Epoch: 14 	Training Loss: 0.452067 	Validation Loss: 0.919322
+Accuracy: 61.2890625 %
+Epoch: 15 	Training Loss: 0.371090 	Validation Loss: 1.322120
+Accuracy: 65.4296875 %
+Epoch: 16 	Training Loss: 0.316974 	Validation Loss: 1.303621
+Accuracy: 70.5078125 %
+Epoch: 17 	Training Loss: 0.254711 	Validation Loss: 0.990679
+Accuracy: 68.90625 %
+Epoch: 18 	Training Loss: 0.179796 	Validation Loss: 1.086069
+Accuracy: 67.7734375 %
+Epoch: 19 	Training Loss: 0.142423 	Validation Loss: 1.266532
+Accuracy: 70.703125 %
+Epoch: 20 	Training Loss: 0.115380 	Validation Loss: 1.202115
+Accuracy: 68.359375 %
+Epoch: 21 	Training Loss: 0.096127 	Validation Loss: 1.439993
+Accuracy: 73.7109375 %
+Epoch: 22 	Training Loss: 0.031775 	Validation Loss: 1.071598
+Accuracy: 74.53125 %
+Epoch: 23 	Training Loss: 0.006325 	Validation Loss: 0.996845
+Accuracy: 74.8046875 %
+Epoch: 24 	Training Loss: 0.003771 	Validation Loss: 0.992516
+Accuracy: 75.1953125 %
+Epoch: 25 	Training Loss: 0.003114 	Validation Loss: 0.992402
+Accuracy: 74.921875 %
+Epoch: 26 	Training Loss: 0.002313 	Validation Loss: 0.969757
+Accuracy: 75.2734375 %
+Epoch: 27 	Training Loss: 0.001851 	Validation Loss: 0.977437
+Accuracy: 75.546875 %
+Epoch: 28 	Training Loss: 0.001613 	Validation Loss: 0.957022
+Accuracy: 75.234375 %
+Epoch: 29 	Training Loss: 0.001392 	Validation Loss: 0.951803
+Accuracy: 75.0390625 %
+Epoch: 30 	Training Loss: 0.001389 	Validation Loss: 0.956275
+Accuracy: 75.0390625 %
+Epoch: 31 	Training Loss: 0.001297 	Validation Loss: 0.943730
+Accuracy: 74.6875 %
+Epoch: 32 	Training Loss: 0.001440 	Validation Loss: 0.947116
+Accuracy: 75.0 %
+Epoch: 33 	Training Loss: 0.001555 	Validation Loss: 0.933403
+Accuracy: 75.1953125 %
+Epoch: 34 	Training Loss: 0.001284 	Validation Loss: 0.938894
+Accuracy: 74.921875 %
+Epoch: 35 	Training Loss: 0.001272 	Validation Loss: 0.927077
+Accuracy: 75.15625 %
+Epoch: 36 	Training Loss: 0.001257 	Validation Loss: 0.937029
+Accuracy: 75.0390625 %
+Epoch: 37 	Training Loss: 0.001212 	Validation Loss: 0.934889
+Accuracy: 74.7265625 %
+Epoch: 38 	Training Loss: 0.001363 	Validation Loss: 0.925993
+Accuracy: 75.546875 %
+Epoch: 39 	Training Loss: 0.001268 	Validation Loss: 0.919860
+Accuracy: 75.1953125 %
+Epoch: 40 	Training Loss: 0.001463 	Validation Loss: 0.928338
+Accuracy: 75.078125 %
+Epoch: 41 	Training Loss: 0.001276 	Validation Loss: 0.921491
+Accuracy: 75.234375 %
+Epoch: 42 	Training Loss: 0.001293 	Validation Loss: 0.915780
+Accuracy: 75.1171875 %
+Epoch: 43 	Training Loss: 0.001254 	Validation Loss: 0.920539
+Accuracy: 75.234375 %
+Epoch: 44 	Training Loss: 0.001186 	Validation Loss: 0.908626
+Accuracy: 75.2734375 %
+Epoch: 45 	Training Loss: 0.001229 	Validation Loss: 0.919363
+Accuracy: 75.1171875 %
+Epoch: 46 	Training Loss: 0.001278 	Validation Loss: 0.909224
+Accuracy: 75.1171875 %
+Epoch: 47 	Training Loss: 0.001274 	Validation Loss: 0.907152
+Accuracy: 74.921875 %
+Epoch: 48 	Training Loss: 0.001348 	Validation Loss: 0.911309
+Accuracy: 75.0390625 %
+Epoch: 49 	Training Loss: 0.001473 	Validation Loss: 0.917128
+Accuracy: 75.2734375 %
+Epoch: 50 	Training Loss: 0.001302 	Validation Loss: 0.917109
+Accuracy: 75.234375 %
+Epoch: 51 	Training Loss: 0.001254 	Validation Loss: 0.907408
+Accuracy: 74.84375 %
+Epoch: 52 	Training Loss: 0.001297 	Validation Loss: 0.909614
+Accuracy: 74.9609375 %
+Epoch: 53 	Training Loss: 0.001292 	Validation Loss: 0.901470
+Accuracy: 75.0 %
+Epoch: 54 	Training Loss: 0.001299 	Validation Loss: 0.910251
+Accuracy: 75.4296875 %
+Epoch: 55 	Training Loss: 0.001308 	Validation Loss: 0.904025
+Accuracy: 75.078125 %
+Epoch: 56 	Training Loss: 0.001373 	Validation Loss: 0.906811
+Accuracy: 75.0390625 %
+Epoch: 57 	Training Loss: 0.001379 	Validation Loss: 0.908481
+Accuracy: 74.84375 %
+Epoch: 58 	Training Loss: 0.001383 	Validation Loss: 0.901210
+Accuracy: 75.078125 %
+Epoch: 59 	Training Loss: 0.001286 	Validation Loss: 0.898393
+Accuracy: 74.8828125 %
+Epoch: 60 	Training Loss: 0.001357 	Validation Loss: 0.901420
+Accuracy: 74.9609375 %
+Epoch: 61 	Training Loss: 0.001234 	Validation Loss: 0.900235
+Accuracy: 75.0390625 %
+Epoch: 62 	Training Loss: 0.001313 	Validation Loss: 0.902917
+Accuracy: 75.0390625 %
+Epoch: 63 	Training Loss: 0.001212 	Validation Loss: 0.904973
+Accuracy: 74.9609375 %
+Epoch: 64 	Training Loss: 0.001276 	Validation Loss: 0.898132
+Accuracy: 75.0390625 %
+Epoch: 65 	Training Loss: 0.001196 	Validation Loss: 0.901366
+Accuracy: 74.921875 %
+Epoch: 66 	Training Loss: 0.001204 	Validation Loss: 0.902275
+Accuracy: 74.9609375 %
+Epoch: 67 	Training Loss: 0.001194 	Validation Loss: 0.896961
+Accuracy: 74.921875 %
+Epoch: 68 	Training Loss: 0.001307 	Validation Loss: 0.898716
+Accuracy: 74.8046875 %
+Epoch: 69 	Training Loss: 0.001261 	Validation Loss: 0.901340
+Accuracy: 75.0390625 %
+Epoch: 70 	Training Loss: 0.001299 	Validation Loss: 0.894991
+Accuracy: 74.921875 %
+Epoch: 71 	Training Loss: 0.001234 	Validation Loss: 0.899836
+Accuracy: 75.0 %
+Epoch: 72 	Training Loss: 0.001322 	Validation Loss: 0.899288
+Accuracy: 75.0 %
+Epoch: 73 	Training Loss: 0.001291 	Validation Loss: 0.901693
+Accuracy: 75.078125 %
+Epoch: 74 	Training Loss: 0.001259 	Validation Loss: 0.896036
+Accuracy: 74.8046875 %
+Epoch: 75 	Training Loss: 0.001234 	Validation Loss: 0.903784
+Accuracy: 75.0390625 %
+Epoch: 76 	Training Loss: 0.001238 	Validation Loss: 0.894368
+Accuracy: 74.765625 %
+Epoch: 77 	Training Loss: 0.001182 	Validation Loss: 0.902382
+Accuracy: 74.8828125 %
+Epoch: 78 	Training Loss: 0.001298 	Validation Loss: 0.897126
+Accuracy: 75.1171875 %
+Epoch: 79 	Training Loss: 0.001277 	Validation Loss: 0.900280
+Accuracy: 74.921875 %
+Epoch: 80 	Training Loss: 0.001260 	Validation Loss: 0.896329
+Accuracy: 74.9609375 %
+Epoch: 81 	Training Loss: 0.001298 	Validation Loss: 0.894169
+Accuracy: 75.0 %
+Epoch: 82 	Training Loss: 0.001202 	Validation Loss: 0.897955
+Accuracy: 74.6875 %
+Epoch: 83 	Training Loss: 0.001305 	Validation Loss: 0.903105
+Accuracy: 75.0390625 %
+Epoch: 84 	Training Loss: 0.001254 	Validation Loss: 0.898995
+Accuracy: 75.0390625 %
+Epoch: 85 	Training Loss: 0.001263 	Validation Loss: 0.896714
+Accuracy: 74.765625 %
+Epoch: 86 	Training Loss: 0.001285 	Validation Loss: 0.896684
+Accuracy: 75.078125 %
+Epoch: 87 	Training Loss: 0.001224 	Validation Loss: 0.894258
+Accuracy: 75.0 %
+Epoch: 88 	Training Loss: 0.001281 	Validation Loss: 0.900866
+Accuracy: 75.1171875 %
+Epoch: 89 	Training Loss: 0.001286 	Validation Loss: 0.892540
+Accuracy: 74.84375 %
+Epoch: 90 	Training Loss: 0.001272 	Validation Loss: 0.901842
+Accuracy: 75.1171875 %
+Epoch: 91 	Training Loss: 0.001291 	Validation Loss: 0.891311
+Accuracy: 74.8828125 %
+Epoch: 92 	Training Loss: 0.001224 	Validation Loss: 0.898816
+Accuracy: 74.9609375 %
+Epoch: 93 	Training Loss: 0.001247 	Validation Loss: 0.899648
+Accuracy: 74.9609375 %
+Epoch: 94 	Training Loss: 0.001253 	Validation Loss: 0.891627
+Accuracy: 75.078125 %
+Epoch: 95 	Training Loss: 0.001205 	Validation Loss: 0.902767
+Accuracy: 74.8046875 %
+Epoch: 96 	Training Loss: 0.001193 	Validation Loss: 0.896630
+Accuracy: 74.7265625 %
+Epoch: 97 	Training Loss: 0.001352 	Validation Loss: 0.900153
+Accuracy: 74.8046875 %
+Epoch: 98 	Training Loss: 0.001210 	Validation Loss: 0.897719
+Accuracy: 74.609375 %
+Epoch: 99 	Training Loss: 0.001182 	Validation Loss: 0.898476
+Accuracy: 74.84375 %
+Epoch: 100 	Training Loss: 0.001263 	Validation Loss: 0.893002
+Accuracy: 74.921875 %
+Epoch: 101 	Training Loss: 0.001281 	Validation Loss: 0.898765
+Accuracy: 74.7265625 %
+Epoch: 102 	Training Loss: 0.001322 	Validation Loss: 0.899570
+Accuracy: 74.9609375 %
+Epoch: 103 	Training Loss: 0.001289 	Validation Loss: 0.898020
+Accuracy: 74.8828125 %
+Epoch: 104 	Training Loss: 0.001350 	Validation Loss: 0.895253
+Accuracy: 74.84375 %
+Epoch: 105 	Training Loss: 0.001282 	Validation Loss: 0.898378
+Accuracy: 74.921875 %
+Epoch: 106 	Training Loss: 0.001251 	Validation Loss: 0.891484
+Accuracy: 74.765625 %
+Epoch: 107 	Training Loss: 0.001322 	Validation Loss: 0.895883
+Accuracy: 75.0 %
+Epoch: 108 	Training Loss: 0.001289 	Validation Loss: 0.894013
+Accuracy: 74.9609375 %
+Epoch: 109 	Training Loss: 0.001290 	Validation Loss: 0.897659
+Accuracy: 74.8828125 %
+Epoch: 110 	Training Loss: 0.001233 	Validation Loss: 0.899225
+Accuracy: 74.84375 %
+Epoch: 111 	Training Loss: 0.001315 	Validation Loss: 0.899393
+Accuracy: 74.8046875 %
+Epoch: 112 	Training Loss: 0.001315 	Validation Loss: 0.893795
+Accuracy: 74.8828125 %
+Epoch: 113 	Training Loss: 0.001237 	Validation Loss: 0.901581
+Accuracy: 74.921875 %
+Epoch: 114 	Training Loss: 0.001286 	Validation Loss: 0.895700
+Accuracy: 74.84375 %
+Epoch: 115 	Training Loss: 0.001185 	Validation Loss: 0.896788
+Accuracy: 74.9609375 %
+Epoch: 116 	Training Loss: 0.001182 	Validation Loss: 0.892989
+Accuracy: 74.8828125 %
+Epoch: 117 	Training Loss: 0.001280 	Validation Loss: 0.898392
+Accuracy: 74.7265625 %
+Epoch: 118 	Training Loss: 0.001291 	Validation Loss: 0.896004
+Accuracy: 74.84375 %
+Epoch: 119 	Training Loss: 0.001233 	Validation Loss: 0.899524
+Accuracy: 74.8828125 %
+Epoch: 120 	Training Loss: 0.001321 	Validation Loss: 0.895578
+Accuracy: 74.8828125 %
+Epoch: 121 	Training Loss: 0.001301 	Validation Loss: 0.898943
+Accuracy: 74.8828125 %
+Epoch: 122 	Training Loss: 0.001291 	Validation Loss: 0.897077
+Accuracy: 74.921875 %
+Epoch: 123 	Training Loss: 0.001261 	Validation Loss: 0.892606
+Accuracy: 75.0390625 %
+Epoch: 124 	Training Loss: 0.001259 	Validation Loss: 0.905374
+Accuracy: 74.8046875 %
+Epoch: 125 	Training Loss: 0.001349 	Validation Loss: 0.897641
+Accuracy: 75.0 %
+Epoch: 126 	Training Loss: 0.001286 	Validation Loss: 0.896831
+Accuracy: 75.078125 %
+Epoch: 127 	Training Loss: 0.001292 	Validation Loss: 0.896186
+Accuracy: 74.8828125 %
+Epoch: 128 	Training Loss: 0.001301 	Validation Loss: 0.897098
+Accuracy: 74.765625 %
+Epoch: 129 	Training Loss: 0.001277 	Validation Loss: 0.902207
+Accuracy: 75.078125 %
+Epoch: 130 	Training Loss: 0.001254 	Validation Loss: 0.900760
+Accuracy: 74.765625 %
+Epoch: 131 	Training Loss: 0.001361 	Validation Loss: 0.898173
+Accuracy: 75.078125 %
+Epoch: 132 	Training Loss: 0.001327 	Validation Loss: 0.899429
+Accuracy: 74.8046875 %
+Epoch: 133 	Training Loss: 0.001251 	Validation Loss: 0.896833
+Accuracy: 74.921875 %
+Epoch: 134 	Training Loss: 0.001294 	Validation Loss: 0.893284
+Accuracy: 74.84375 %
+Epoch: 135 	Training Loss: 0.001273 	Validation Loss: 0.894616
+Accuracy: 75.0 %
+Epoch: 136 	Training Loss: 0.001338 	Validation Loss: 0.896036
+Accuracy: 75.1171875 %
+Epoch: 137 	Training Loss: 0.001259 	Validation Loss: 0.897801
+Accuracy: 74.8046875 %
+Epoch: 138 	Training Loss: 0.001246 	Validation Loss: 0.902095
+Accuracy: 75.0390625 %
+Epoch: 139 	Training Loss: 0.001368 	Validation Loss: 0.902264
+Accuracy: 74.765625 %
+Epoch: 140 	Training Loss: 0.001290 	Validation Loss: 0.900206
+Accuracy: 74.84375 %
+Epoch: 141 	Training Loss: 0.001234 	Validation Loss: 0.899710
+Accuracy: 74.7265625 %
+Epoch: 142 	Training Loss: 0.001329 	Validation Loss: 0.896538
+Accuracy: 74.9609375 %
+Epoch: 143 	Training Loss: 0.001231 	Validation Loss: 0.901195
+Accuracy: 74.8828125 %
+Epoch: 144 	Training Loss: 0.001276 	Validation Loss: 0.893505
+Accuracy: 74.84375 %
+Epoch: 145 	Training Loss: 0.001308 	Validation Loss: 0.899105
+Accuracy: 74.84375 %
+Epoch: 146 	Training Loss: 0.001318 	Validation Loss: 0.901008
+Accuracy: 74.84375 %
+Epoch: 147 	Training Loss: 0.001259 	Validation Loss: 0.897357
+Accuracy: 74.8828125 %
+Epoch: 148 	Training Loss: 0.001326 	Validation Loss: 0.893241
+Accuracy: 75.0 %
+Epoch: 149 	Training Loss: 0.001279 	Validation Loss: 0.895989
+Accuracy: 74.84375 %
+Epoch: 150 	Training Loss: 0.001261 	Validation Loss: 0.900808
+Accuracy: 74.765625 %
+Epoch: 151 	Training Loss: 0.001302 	Validation Loss: 0.897691
+Accuracy: 74.8828125 %
+Epoch: 152 	Training Loss: 0.001288 	Validation Loss: 0.897736
+Accuracy: 74.8828125 %
+Epoch: 153 	Training Loss: 0.001290 	Validation Loss: 0.899728
+Accuracy: 75.15625 %
+Epoch: 154 	Training Loss: 0.001314 	Validation Loss: 0.895819
+Accuracy: 74.84375 %
+Epoch: 155 	Training Loss: 0.001342 	Validation Loss: 0.894655
+Accuracy: 74.921875 %
+Epoch: 156 	Training Loss: 0.001244 	Validation Loss: 0.897791
+Accuracy: 75.0 %
+Epoch: 157 	Training Loss: 0.001272 	Validation Loss: 0.894320
+Accuracy: 74.9609375 %
+Epoch: 158 	Training Loss: 0.001302 	Validation Loss: 0.898566
+Accuracy: 74.9609375 %
+Epoch: 159 	Training Loss: 0.001213 	Validation Loss: 0.894760
+Accuracy: 74.8046875 %
+Epoch: 160 	Training Loss: 0.001233 	Validation Loss: 0.894843
+Accuracy: 74.921875 %
+Epoch: 161 	Training Loss: 0.001284 	Validation Loss: 0.899160
+Accuracy: 74.765625 %
+Epoch: 162 	Training Loss: 0.001255 	Validation Loss: 0.900032
+Accuracy: 74.9609375 %
+Epoch: 163 	Training Loss: 0.001316 	Validation Loss: 0.897373
+Accuracy: 75.0 %
+Epoch: 164 	Training Loss: 0.001335 	Validation Loss: 0.897274
+Accuracy: 75.0390625 %
+Epoch: 165 	Training Loss: 0.001321 	Validation Loss: 0.899082
+Accuracy: 74.6875 %
+Epoch: 166 	Training Loss: 0.001382 	Validation Loss: 0.899373
+Accuracy: 74.6875 %
+Epoch: 167 	Training Loss: 0.001298 	Validation Loss: 0.904113
+Accuracy: 74.8046875 %
+Epoch: 168 	Training Loss: 0.001243 	Validation Loss: 0.896981
+Accuracy: 74.7265625 %
+Epoch: 169 	Training Loss: 0.001306 	Validation Loss: 0.898008
+Accuracy: 75.0 %
+Epoch: 170 	Training Loss: 0.001388 	Validation Loss: 0.901423
+Accuracy: 74.8828125 %
+Epoch: 171 	Training Loss: 0.001384 	Validation Loss: 0.893238
+Accuracy: 74.84375 %
+Epoch: 172 	Training Loss: 0.001421 	Validation Loss: 0.895160
+Accuracy: 75.0 %
+Epoch: 173 	Training Loss: 0.001292 	Validation Loss: 0.897959
+Accuracy: 75.0390625 %
+Epoch: 174 	Training Loss: 0.001279 	Validation Loss: 0.891536
+Accuracy: 74.9609375 %
+Epoch: 175 	Training Loss: 0.001266 	Validation Loss: 0.895661
+Accuracy: 74.9609375 %
+Epoch: 176 	Training Loss: 0.001292 	Validation Loss: 0.897859
+Accuracy: 74.9609375 %
+Epoch: 177 	Training Loss: 0.001324 	Validation Loss: 0.897943
+Accuracy: 74.921875 %
+Epoch: 178 	Training Loss: 0.001302 	Validation Loss: 0.895044
+Accuracy: 74.921875 %
+Epoch: 179 	Training Loss: 0.001317 	Validation Loss: 0.894820
+Accuracy: 74.765625 %
+Epoch: 180 	Training Loss: 0.001231 	Validation Loss: 0.895955
+Accuracy: 75.078125 %
+Epoch: 181 	Training Loss: 0.001303 	Validation Loss: 0.891512
+Accuracy: 74.921875 %
+Epoch: 182 	Training Loss: 0.001318 	Validation Loss: 0.895405
+Accuracy: 75.0 %
+Epoch: 183 	Training Loss: 0.001298 	Validation Loss: 0.896621
+Accuracy: 74.8046875 %
+Epoch: 184 	Training Loss: 0.001271 	Validation Loss: 0.896242
+Accuracy: 74.8828125 %
+Epoch: 185 	Training Loss: 0.001221 	Validation Loss: 0.895658
+Accuracy: 74.9609375 %
+Epoch: 186 	Training Loss: 0.001273 	Validation Loss: 0.892122
+Accuracy: 74.84375 %
+Epoch: 187 	Training Loss: 0.001263 	Validation Loss: 0.894915
+Accuracy: 74.921875 %
+Epoch: 188 	Training Loss: 0.001250 	Validation Loss: 0.896789
+Accuracy: 74.921875 %
+Epoch: 189 	Training Loss: 0.001372 	Validation Loss: 0.901373
+Accuracy: 75.078125 %
+Epoch: 190 	Training Loss: 0.001355 	Validation Loss: 0.894764
+Accuracy: 74.921875 %
+Epoch: 191 	Training Loss: 0.001441 	Validation Loss: 0.896868
+Accuracy: 74.9609375 %
+Epoch: 192 	Training Loss: 0.001322 	Validation Loss: 0.895850
+Accuracy: 75.0390625 %
+Epoch: 193 	Training Loss: 0.001258 	Validation Loss: 0.899874
+Accuracy: 74.921875 %
+Epoch: 194 	Training Loss: 0.001262 	Validation Loss: 0.898664
+Accuracy: 75.0390625 %
+Epoch: 195 	Training Loss: 0.001262 	Validation Loss: 0.902133
+Accuracy: 74.84375 %
+Epoch: 196 	Training Loss: 0.001262 	Validation Loss: 0.897237
+Accuracy: 74.9609375 %
+Epoch: 197 	Training Loss: 0.001267 	Validation Loss: 0.896781
+Accuracy: 74.765625 %
+Epoch: 198 	Training Loss: 0.001339 	Validation Loss: 0.897742
+Accuracy: 74.84375 %
+Epoch: 199 	Training Loss: 0.001341 	Validation Loss: 0.900981
+Accuracy: 75.0 %
+Epoch: 200 	Training Loss: 0.001376 	Validation Loss: 0.901365
+Accuracy: 75.0390625 %
+Epoch: 201 	Training Loss: 0.001389 	Validation Loss: 0.898871
+Accuracy: 74.84375 %
+Epoch: 202 	Training Loss: 0.001326 	Validation Loss: 0.889576
+Accuracy: 74.8828125 %
+Epoch: 203 	Training Loss: 0.001251 	Validation Loss: 0.898111
+Accuracy: 74.765625 %
+Epoch: 204 	Training Loss: 0.001332 	Validation Loss: 0.898637
+Accuracy: 74.8828125 %
+Epoch: 205 	Training Loss: 0.001221 	Validation Loss: 0.901943
+Accuracy: 74.8046875 %
+Epoch: 206 	Training Loss: 0.001280 	Validation Loss: 0.898394
+Accuracy: 75.0 %
+Epoch: 207 	Training Loss: 0.001258 	Validation Loss: 0.897921
+Accuracy: 75.0 %
+Epoch: 208 	Training Loss: 0.001292 	Validation Loss: 0.904822
+Accuracy: 75.1171875 %
+Epoch: 209 	Training Loss: 0.001334 	Validation Loss: 0.890956
+Accuracy: 75.1953125 %
+Epoch: 210 	Training Loss: 0.001201 	Validation Loss: 0.896531
+Accuracy: 75.0390625 %
+Epoch: 211 	Training Loss: 0.001376 	Validation Loss: 0.897904
+Accuracy: 75.0 %
+Epoch: 212 	Training Loss: 0.001268 	Validation Loss: 0.899290
+Accuracy: 74.84375 %
+Epoch: 213 	Training Loss: 0.001291 	Validation Loss: 0.896568
+Accuracy: 74.84375 %
+Epoch: 214 	Training Loss: 0.001321 	Validation Loss: 0.897998
+Accuracy: 74.9609375 %
+Epoch: 215 	Training Loss: 0.001311 	Validation Loss: 0.894634
+Accuracy: 75.0390625 %
+Epoch: 216 	Training Loss: 0.001292 	Validation Loss: 0.897550
+Accuracy: 74.7265625 %
+Epoch: 217 	Training Loss: 0.001260 	Validation Loss: 0.896314
+Accuracy: 74.765625 %
+Epoch: 218 	Training Loss: 0.001297 	Validation Loss: 0.895587
+Accuracy: 74.8828125 %
+Epoch: 219 	Training Loss: 0.001267 	Validation Loss: 0.895804
+Accuracy: 74.921875 %
+Epoch: 220 	Training Loss: 0.001353 	Validation Loss: 0.898956
+Accuracy: 75.0 %
+Epoch: 221 	Training Loss: 0.001279 	Validation Loss: 0.896722
+Accuracy: 74.8828125 %
+Epoch: 222 	Training Loss: 0.001207 	Validation Loss: 0.896250
+Accuracy: 75.0390625 %
+Epoch: 223 	Training Loss: 0.001307 	Validation Loss: 0.896511
+Accuracy: 74.765625 %
+Epoch: 224 	Training Loss: 0.001355 	Validation Loss: 0.897778
+Accuracy: 75.0390625 %
+Epoch: 225 	Training Loss: 0.001291 	Validation Loss: 0.895382
+Accuracy: 74.765625 %
+Epoch: 226 	Training Loss: 0.001382 	Validation Loss: 0.895824
+Accuracy: 75.15625 %
+Epoch: 227 	Training Loss: 0.001292 	Validation Loss: 0.897787
+Accuracy: 74.921875 %
+Epoch: 228 	Training Loss: 0.001298 	Validation Loss: 0.897991
+Accuracy: 75.0 %
+Epoch: 229 	Training Loss: 0.001324 	Validation Loss: 0.898076
+Accuracy: 75.1171875 %
+Epoch: 230 	Training Loss: 0.001219 	Validation Loss: 0.893829
+Accuracy: 74.84375 %
+Epoch: 231 	Training Loss: 0.001394 	Validation Loss: 0.895908
+Accuracy: 75.0 %
+Epoch: 232 	Training Loss: 0.001241 	Validation Loss: 0.900625
+Accuracy: 74.8046875 %
+Epoch: 233 	Training Loss: 0.001239 	Validation Loss: 0.892465
+Accuracy: 74.8046875 %
+Epoch: 234 	Training Loss: 0.001262 	Validation Loss: 0.901094
+Accuracy: 75.0390625 %
+Epoch: 235 	Training Loss: 0.001384 	Validation Loss: 0.894941
+Accuracy: 75.0 %
+Epoch: 236 	Training Loss: 0.001317 	Validation Loss: 0.902926
+Accuracy: 74.8828125 %
+Epoch: 237 	Training Loss: 0.001258 	Validation Loss: 0.896283
+Accuracy: 74.921875 %
+Epoch: 238 	Training Loss: 0.001265 	Validation Loss: 0.896710
+Accuracy: 75.1171875 %
+Epoch: 239 	Training Loss: 0.001286 	Validation Loss: 0.897647
+Accuracy: 74.8046875 %
+Epoch: 240 	Training Loss: 0.001282 	Validation Loss: 0.899843
+Accuracy: 74.9609375 %
+Epoch: 241 	Training Loss: 0.001276 	Validation Loss: 0.892479
+Accuracy: 74.921875 %
+Epoch: 242 	Training Loss: 0.001290 	Validation Loss: 0.895032
+Accuracy: 74.9609375 %
+Epoch: 243 	Training Loss: 0.001308 	Validation Loss: 0.895060
+Accuracy: 74.84375 %
+Epoch: 244 	Training Loss: 0.001291 	Validation Loss: 0.895221
+Accuracy: 74.84375 %
+Epoch: 245 	Training Loss: 0.001264 	Validation Loss: 0.904818
+Accuracy: 74.921875 %
+Epoch: 246 	Training Loss: 0.001263 	Validation Loss: 0.902674
+Accuracy: 75.0 %
+Epoch: 247 	Training Loss: 0.001356 	Validation Loss: 0.898616
+Accuracy: 74.8828125 %
+Epoch: 248 	Training Loss: 0.001345 	Validation Loss: 0.898872
+Accuracy: 75.1953125 %
+Epoch: 249 	Training Loss: 0.001327 	Validation Loss: 0.908325
+Accuracy: 75.0 %
+Epoch: 250 	Training Loss: 0.001306 	Validation Loss: 0.906210
