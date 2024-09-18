@@ -1,0 +1,24 @@
+# Accuracy on Imbalanced CIFAR10 with Origin Loss
+Accuracy of plane: 92.90%
+Accuracy of car: 77.70%
+Accuracy of bird: 57.30%
+Accuracy of cat: 45.70%
+Accuracy of deer: 43.80%
+Accuracy of dog: 14.60%
+Accuracy of frog: 6.00%
+Accuracy of horse: 21.80%
+Accuracy of ship: 0.00%
+Accuracy of truck: 0.00%
+
+
+# Accuracy on Imbalanced CIFAR10 with Reweighting Loss
+Accuracy of plane: 49.40%
+Accuracy of car: 72.40%
+Accuracy of bird: 9.80%
+Accuracy of cat: 19.70%
+Accuracy of deer: 46.80%
+Accuracy of dog: 30.00%
+Accuracy of frog: 40.80%
+Accuracy of horse: 56.20%
+Accuracy of ship: 33.40%
+Accuracy of truck: 27.50%
